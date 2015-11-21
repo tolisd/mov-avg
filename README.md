@@ -1,0 +1,2 @@
+# mov-avg
+moving averages
